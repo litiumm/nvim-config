@@ -20,5 +20,6 @@ vim.opt.smartindent = true
 vim.opt.scrolloff = 10
 vim.opt.sidescrolloff = 5
 vim.opt.fillchars = { eob = " " }
+vim.opt.laststatus = 3
 
 vim.g.mapleader = " "
